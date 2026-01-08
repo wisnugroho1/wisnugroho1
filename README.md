@@ -9,7 +9,7 @@
 
 ## About
 
-I work at the intersection of **poverty alleviation**, **impact evaluation**, and **labor & public policy**. I blend experimental and quasi-experimental methods with rich microdata (IFLS, Susenas, Sakernas, Podes) to inform evidence-based policy in Indonesia.
+I work at the intersection of **poverty alleviation**, **gender economics**, **impact evaluation**, and **labor & public policy**. I blend experimental and quasi-experimental methods with rich microdata (IFLS, Susenas, Sakernas, Podes) to inform evidence-based policy in Indonesia.
 
 ## Current Roles
 
